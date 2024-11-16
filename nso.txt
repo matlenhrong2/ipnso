@@ -1,1 +1,2 @@
 Ninja DVT:0.tcp.ap.ngrok.io:17785:0:0
+ngrok config add-authtoken 2o6GiASO7Z6Yf2MBslb0ORHoNDG_5epDoACS5wyHdAoXQCrVG
